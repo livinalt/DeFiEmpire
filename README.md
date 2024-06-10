@@ -68,8 +68,8 @@ avalanche network start --subnet mySubnet
 - Click on the "Deploy & Run Transactions" tab.
 - Select "Injected Web3" as the environment. Ensure Metamask is connected to your custom Avalanche subnet.
 
-### Step 2: Deploy ERC20 Contract
-
+### Step 2: Deploy ERC20 Contract 
+Deployed ERC20 Contract Address on the Fuji Network: 0xB5Cc0eA09Ea45a317D1c155461EB8d65b973D2c1
 Create a new file in Remix and paste the ERC20 contract:
 
 ```solidity
@@ -128,8 +128,8 @@ contract ERC20 {
 
 Compile the contract and deploy it using Remix.
 
-### Step 3: Deploy Vault Contract
-
+### Step 3: Deploy Vault Contract 
+Deployed Vault Contract Address on the Fuji Network: 0x1552d249aAebe7d0883452721E49074c791e1d81
 Create another file in Remix and paste the vault code:
 
 ```solidity
